@@ -1,0 +1,2 @@
+Company Management V1 - Separate project based on Stock Management V14
+Modules: Stock Management + Device Management + Maintenance / Repair
