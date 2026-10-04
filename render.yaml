@@ -15,6 +15,6 @@ services:
 
 databases:
   - name: company-management-db
-    plan: free
+    plan: 0.1c-256mb
     databaseName: company_management
     user: company_admin
